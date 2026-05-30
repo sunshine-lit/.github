@@ -1,7 +1,7 @@
 # SUNSHINE LIT
 lit by sunshine, a personal luvit/lit playground project by the sunshining
 
-ℹ️ just so you are not confused, the word lit can be used in three ways, lit referring to luvit's package manager, lit as light, and lit as cool.
+ℹ️ just so you are not confused, the word lit can be used in four ways, lit referring to luvit's package manager, lit as light, lit as fire, and lit as cool.
 
 why
 - becuase bun is heavliy written by ai
